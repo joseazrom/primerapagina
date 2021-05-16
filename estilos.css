@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+
+.titulo{
+    font-family: cursive;
+    text-align: center;
+}
+
+#primerParrafo{
+    color: blue;
+}
+
+.imagenPerfil{
+    width: 300px;
+    border-radius: 150px;
+}
+.TEXTO{
+    color: snow;
+    text-decoration: skyblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
